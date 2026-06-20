@@ -1,4 +1,4 @@
 title: mercerweissx
-remote_theme: minima
+theme: minima
 plugins:
 - jekyll-remote-theme
