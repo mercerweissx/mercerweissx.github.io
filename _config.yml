@@ -1,4 +1,4 @@
-title: mercerweissx
+title: "mercerweissx"
+author: "Xavier Mercerweiss"
+description: "My first blog, wowza!"
 theme: minima
-plugins:
-- jekyll-remote-theme
