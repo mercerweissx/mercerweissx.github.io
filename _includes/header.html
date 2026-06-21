@@ -13,8 +13,10 @@
       </label>
 
       <div class="trigger">
-        {%- for pg in site.pages -%}
-          <a class="page-link" href="{{ pg.url }}">{{ pg.title }}</a>
+        {%- for pg in site.html_pages -%}
+          {%- if pg.title -%}
+            <a class="page-link" href="{{ pg.url }}">{{ pg.title }}</a>
+          {%- endif -%}
         {%- endfor %}
         <a class="page-link" href="/feed.xml" target="_blank">RSS</a>
       </div>
