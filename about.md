@@ -3,9 +3,6 @@ title: About
 permalink: /about
 layout: styled
 ---
-<hr>
-<br>
-
 ## The Author 
 My name is Xavier Mercerweiss. I'm an applied mathematics student at Arapahoe Community College in Littleton, Colorado.
 
