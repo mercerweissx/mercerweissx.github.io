@@ -3,10 +3,10 @@ title: Posts
 permalink: /posts/
 ---
 
-<ul>
+<ol>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>, {{ post.description }}.
     </li>
   {% endfor %}
-</ul>
+</ol>
