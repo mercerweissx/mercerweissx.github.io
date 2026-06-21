@@ -1,7 +1,7 @@
 ---
 title: Content
 permalink: /content/
-layout: styled
+layout: page
 ---
 <ol reversed>
   {% for post in site.posts %}
