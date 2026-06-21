@@ -2,6 +2,8 @@
 title: About
 permalink: /about
 ---
+## The Author 
+My name is Xavier Mercerweiss. I'm an applied mathematics student at Arapahoe Community College in Littleton, Colorado.
 
-# About the Author
-What the heck do I even put here?
+## The Content
+This website hosts my personal essays and research projects.
