@@ -2,7 +2,7 @@
 title: Posts
 permalink: /posts/
 ---
-
+<hr>
 <ol reversed>
   {% for post in site.posts %}
     <li>
