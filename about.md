@@ -2,7 +2,7 @@
 title: About
 permalink: /about
 ---
-<hr style="color: #E8E8E8; height: 1px;">
+<hr style="color: #E8E8E8; height: 1px; border: none;">
 <br>
 
 ## The Author 
