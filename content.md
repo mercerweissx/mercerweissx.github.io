@@ -1,6 +1,7 @@
 ---
 title: Content
 permalink: /content/
+layout: styled
 ---
 <hr>
 <br>
