@@ -2,7 +2,7 @@
 title: Content
 permalink: /content/
 ---
-<hr>
+<hr style="color: #E8E8E8; height: 1px;">
 <br>
 <ol reversed>
   {% for post in site.posts %}
