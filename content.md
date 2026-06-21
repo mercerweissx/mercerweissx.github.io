@@ -3,8 +3,6 @@ title: Content
 permalink: /content/
 layout: styled
 ---
-<hr>
-<br>
 <ol reversed>
   {% for post in site.posts %}
     <li>
