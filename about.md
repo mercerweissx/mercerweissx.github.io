@@ -2,8 +2,9 @@
 title: About
 permalink: /about
 ---
-<hr>
+<hr style="color: #E8E8E8; height: 1px;">
 <br>
+
 ## The Author 
 My name is Xavier Mercerweiss. I'm an applied mathematics student at Arapahoe Community College in Littleton, Colorado.
 
