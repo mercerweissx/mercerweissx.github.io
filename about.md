@@ -8,7 +8,6 @@ My name is Xavier; I'm an applied math student from Denver, Colorado. I'm workin
 
 I find an exceptional beauty in pure information, a beauty captured by patterns, programs, proofs, and prose. No field of knowledge explores this beauty as deeply as mathematics, and as such, no field of knowledge better holds my attention. I hope to spend my career cultivating technical expertise and solving interesting problems.
 
-<hr>
 <br>
 
 ## The Content
