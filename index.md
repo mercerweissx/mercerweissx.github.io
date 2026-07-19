@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # Welcome to _mercerweissx.com_
 My name is Xavier Mercerweiss; this web log catalogs my personal essays and research projects. 
 
