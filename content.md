@@ -1,7 +1,8 @@
 ---
 title: Content
-permalink: /content/
 layout: page
+permalink: /content/
+navlink: true
 ---
 <ol reversed>
   {% for post in site.posts %}
