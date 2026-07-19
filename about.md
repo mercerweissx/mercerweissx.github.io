@@ -1,7 +1,8 @@
 ---
 title: About
-permalink: /about
 layout: page
+permalink: /about
+navlink: true
 ---
 ## The Author 
 My name is Xavier; I'm an applied math student from Denver, Colorado. I'm working towards a bachelor's of science in mathematics and intend to pursue an advanced degree after graduation.
