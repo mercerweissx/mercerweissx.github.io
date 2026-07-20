@@ -11,4 +11,4 @@ If you’d like to contact me for any reason, please do! I’d love to hear from
 
 # Latest Post
 {% assign latest = site.posts.first %}
-<h1>{{ latest.title }}</h1>
+<h3>{{ latest.title }}</h3>
