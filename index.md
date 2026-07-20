@@ -1,6 +1,7 @@
 ---
 layout: home
 navlink: true
+title: home
 ---
 <h1>Welcome to <em>mercerweissx.com</em></h1>
 My name is Xavier Mercerweiss; this web log catalogs my personal essays and research projects. 
@@ -11,13 +12,13 @@ If you’d like to contact me for any reason, please do! I’d love to hear from
 <br>
 <br>
 
-{% assign latest = site.posts.first %}
-{% if latest %}
-  <h1>Latest</h1>
+{% unless site.posts == empty%}
+  {% assign latest = site.posts.first %}
+  <h1>Latest</h1>    
   <h2>{{ latest.title }}</h2>
   <h4><em>{{ latest.date | date: "%B %-d, %Y"}}</em></h4>
   <hr>
   <p>
     {{ latest.content }}
   </p>
-{% endif %}
+{% endunless %}
