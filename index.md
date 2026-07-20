@@ -14,7 +14,8 @@ If you’d like to contact me for any reason, please do! I’d love to hear from
 
 {% unless site.posts == empty%}
   {% assign latest = site.posts.first %}
-  <h1>Latest</h1><hr><br>
+  <h1>Latest</h1><hr>
+  <p style="margin: 0"><br></p>
   <h2>{{ latest.title }}</h2>
   <p style="color: #828282;">{{ latest.date | date: "%B %-d, %Y"}}</p>
   <p>
