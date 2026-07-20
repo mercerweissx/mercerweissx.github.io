@@ -1,6 +1,6 @@
 ---
 layout: home
-navlink: true
+navlink: false
 title: home
 ---
 <h1>Welcome to <em>mercerweissx.com</em></h1>
@@ -16,7 +16,7 @@ If you’d like to contact me for any reason, please do! I’d love to hear from
   {% assign latest = site.posts.first %}
   <h1>Latest</h1>    
   <h2>{{ latest.title }}</h2>
-  <h4><em>{{ latest.date | date: "%B %-d, %Y"}}</em></h4>
+  <p style="color: #828282;">{{ latest.date | date: "%B %-d, %Y"}}</p>
   <hr>
   <p>
     {{ latest.content }}
