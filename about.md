@@ -5,7 +5,9 @@ permalink: /about
 navlink: true
 ---
 ## The Author 
-<img class="headshot" src="/assets/linkedin-photo.png">
+<div class="headshot">
+  <img src="/assets/linkedin-photo.png" alt="A young man with light skin, short blond hair, blue eyes, and brown aviator eyeglasses.">
+</div>
 I'm a hobbyist computer programmer based in Saint Louis, Missouri. I deeply enjoy the process of studying a specific subject or problem and synthesizing my findings into writing. This site hosts these writings and allows me to share them more easily.
 
 Beyond learning, I love writing Python programs and tinkering with operating systems. I'm on the autism spectrum and currently work in a non-technical field to support myself while keeping software as a personal passion. 
